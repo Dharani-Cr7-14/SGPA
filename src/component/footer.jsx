@@ -4,7 +4,7 @@ export default function Footer(){
         <>
         <section className=" ">
             <div className="bg-indigo-400  text-center p-1 font-bold">
-            <p> &copy; IT 2027</p>
+            <p> &copy; IT 2028</p>
          </div>
         </section>
         </>
